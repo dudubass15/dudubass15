@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Meu nome é Carlos Eduardo,
+sou desenvolvedor Frontend há mais ou menos 4 anos.
+
+Durante esse período, tenho adquirido muitas experiências e conhecimentos, seja atráves de pessoas, conteúdos na internet, livros, vídeos e dentre outros meios.
+
+Meu objetivo, é ser bom naquilo que faço sempre, por isso estou sempre estudando de forma intensa e objetiva.
+
 <!--
 **dudubass15/dudubass15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
